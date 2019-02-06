@@ -16,7 +16,7 @@ The master branch contains this README.md file. The release branches are named l
 
 ## Contribution
 
-Check if the latest stable or mainline Linux* Perf [tool](https://www.kernel.org/) has the functionality you need. If the functionality is missing from there then try mailing your requests to Linux* Perf users [mailing list](mailto:linux-perf-users@vger.kernel.org). If, after all, you still don't get the required level of support then consider contributing missing functionality into the mainline Linux* Perf tool by delivering patches to `linux-kernel@vger.kernel.org` mailing list.
+Check if the latest [stable or mainline](https://www.kernel.org/) Linux* Perf tool has the functionality you need. If the functionality is missing from there try mailing your request to Linux* Perf users [mailing list](mailto:linux-perf-users@vger.kernel.org). If you still didn't get the required level of support consider delivering the source code patches for mainline Linux* Perf tool to `linux-kernel@vger.kernel.org` mailing list.
 
 ## Team contacts
 
