@@ -4,21 +4,21 @@ The Intel(R) VTune(TM) Amplifier Perf tool is the utility employed by [Intel(R) 
 
 ## Technical support
 
-You may report your Intel(R) VTune(TM) Amplfier related technical issues and get some level of support at the official [VTune(TM) forum](https://software.intel.com/en-us/forums/intel-vtune-amplifier).
+You may report your Intel(R) VTune(TM) Amplfier related technical issues and get some level of support at the official [VTune forum](https://software.intel.com/en-us/forums/intel-vtune-amplifier).
 
 ## Software license
 
-Perf tool is a part of the Linux* kernel which is distributed under GNU General Public License, v.2. You can find full text of the license in the files at the root of repository branches.
+Perf tool is a part of Linux* kernel which is distributed under GNU General Public License, v.2. You can find full text of the license in the files at the root of repository branches.
 
 ## Repository structure
 
-The master branch is empty and contains only this README.md file. The release branches are named like `amplxe_<major>_u<update>` (e.g., `amplxe_20019_u3`) and contain the utility source code and build instructions at branched README.md that are specific to the corresponding Intel(R) VTune(TM) Amplfier release.
+The master branch contains only this README.md file. The release branches are named like `amplxe_<major>_u<update>` (e.g., `amplxe_2019_u3`) and provide the utility source code with build instructions that are specific to the corresponding Intel(R) VTune(TM) Amplfier releases.
 
 ## Contributions
 
-Check if the latest stable of mainline [Linux* Perf tool](www.kernel.org) tool has functionality you need. If it doesn't, then mail your questions and requests to `linux-perf-users@vger.kernel.org` mailing list. If, after all, you still don't get required level of support then consider contributing into the mainline Linux* Perf tool by sending patches to `linux-kernel@vger.kernel.org` mailing list.
+At First, check if the latest stable or mainline [Linux* Perf tool](https://www.kernel.org/) has the functionality you need. If the functionality is missing from there then try mailing your questions or requests to [Linux* Perf users mailing list](mailto:linux-perf-users@vger.kernel.org). If, after all, you still don't get the required level of support then consider contributing missing functionality into the mainline Linux* Perf tool by delivering patches to `linux-kernel@vger.kernel.org` mailing list.
 
-# Intel(R) VTune(TM) Amplifier team contact
+## Team contacts
 
 Feel free to send us [e-mail](mailto:alexey.budankov@intel.com).
 
