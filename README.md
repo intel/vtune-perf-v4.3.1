@@ -1,3 +1,12 @@
+DISCONTINUATION OF PROJECT.
+
+This project will no longer be maintained by Intel.
+
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project. 
+
+Intel no longer accepts patches to this project.
+
+If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project. 
 # Intel(R) VTune(TM) Amplifier Perf tool
 
 The Intel(R) VTune(TM) Amplifier Perf tool is the utility employed by [Intel(R) VTune(TM) Amplifier](https://software.intel.com/en-us/vtune) for performance data collection on Linux* based operating systems. See the Intel(R) VTune(TM) Amplifier documentation for more [information](https://software.intel.com/en-us/vtune-amplifier-help-driverless-event-based-sampling-collection) regarding Linux* Perf based analysis capabilities and configuration.
